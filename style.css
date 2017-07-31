@@ -1,0 +1,77 @@
+body
+{
+  background-color: black;
+}
+
+.square
+{
+    position: relative;
+    display: block;
+    width: 21vmin;
+    height: 32vmin;
+    background-color: yellow;
+    float: left;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+.circle
+{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    border-radius: 100%;
+    top: 25%;
+    left: 25%;
+}
+
+.red
+{
+    background-color: red;  
+}
+
+.blue
+{
+    background-color: blue;
+}
+
+.green
+{
+    background-color: green;
+}
+
+.yellow
+{
+    background-color: yellow;
+}
+
+.black
+{
+    background-color: black;
+}
+
+.orange
+{
+    background-color: orange;
+}
+
+.violet
+{
+    background-color: violet;
+}
+
+.grey
+{
+   background-color: darkgrey;
+}
+
+.pink
+{
+    background-color: lightpink;
+}
+
+
+
+
+
+
